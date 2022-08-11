@@ -1,8 +1,21 @@
 # lora-atmega32u4-dev-board
- LoRa developent board based on Microchips RN2903 and MCU atmega32u4
+ LoRa developent board based on the Microchip RN2903 LoRaWAN module and Atmel MCU atmega32u4
 
+Designed in 2016 but just open sourcing it in 2022 as I found the board and decided to do it. 
+
+*Documentation in progress.
 
 ![Board](/pictures/board.jpg)
+
+## Sensors
+
+The board has 2 sensors. 
+Bosch BME280
+Vishay VEML7700
+
+## Battery charger
+
+Circutit based on Microchip MCP73831SOT23-5
 
 
 ## License
