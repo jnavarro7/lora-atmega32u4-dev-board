@@ -10,10 +10,10 @@ Designed in 2016 but just open sourcing it in 2022 as I found the board and deci
 ## Sensors
 
 The board has 2 sensors. 
-Bosch BME280
-Vishay VEML7700
+Bosch BME280 (Temperature, humidity, pressure, altitude sensor)
+Vishay VEML7700 (Ambient light sensor)
 
-## Battery charger
+## Single Cell LiPo Battery charger
 
 Circutit based on Microchip MCP73831SOT23-5
 
