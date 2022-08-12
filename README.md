@@ -3,6 +3,8 @@
 
 Designed in 2016 but just open sourcing it in 2022 as I found the board and decided to do it. 
 
+Designed in DipTrace.
+
 *Documentation in progress.
 
 ![Board](/pictures/board.jpg)
